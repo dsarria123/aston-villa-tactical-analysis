@@ -1,2 +1,2 @@
-# aston-villa-tactical-analysis
+# Aston Villa Tactical Analysis: DSAN 5000 Final Project 
 A data-driven analysis of Aston Villa's tactical identity under Unai Emery using Premier League event data, exploratory analysis, unsupervised learning and supervised machine learning to investigate playing styles and match outcomes.
